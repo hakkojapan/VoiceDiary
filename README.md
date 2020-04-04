@@ -1,0 +1,2 @@
+# VoiceDiary
+VoiceDiaryのプライバシーポリシーについて
